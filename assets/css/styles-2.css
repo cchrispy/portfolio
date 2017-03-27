@@ -293,3 +293,16 @@ p {
 }
 /* Large devices (large desktops, 1200px and up) */
 /* Ex-Large devices (large desktops, 1200px and up) */
+
+
+.level-other {
+  font-size: 22px;
+  margin-top: 0px;
+  margin-bottom: 8px;
+}
+
+.level-other-header {
+  font-size: 14px;
+  margin-top: 0;
+  margin-bottom: 12px;
+}
