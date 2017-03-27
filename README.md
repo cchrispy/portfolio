@@ -2,4 +2,4 @@
 My online portfolio  
 
 #### Credits
-3rd Wave Media template
+3rd Wave Media
