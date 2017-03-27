@@ -1,5 +1,5 @@
 # This is Chris  
-My online portfolio  
+My online resume  
 
 #### Credits
-3rd Wave Media
+Template supplied by 3rd Wave Media
